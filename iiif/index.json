@@ -1,0 +1,30 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "IIIF Collection of Notarial Documents"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/8b784ea06c152052097cded98d80b67d/full/210,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 210
+        }
+    ],
+    "items": [
+        {
+            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASRTCSVol054216210522"
+                ]
+            }
+        }
+    ]
+}
