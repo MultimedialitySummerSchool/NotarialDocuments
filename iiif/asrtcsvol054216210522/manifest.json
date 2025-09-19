@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/manifest.json",
+    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -108,7 +108,7 @@
     "rights": "Archivio di Stato di Roma (ASR)",
     "thumbnail": [
         {
-            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/8b784ea06c152052097cded98d80b67d/full/210,300/0/default.jpg",
+            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/8b784ea06c152052097cded98d80b67d/full/210,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -117,7 +117,7 @@
     ],
     "items": [
         {
-            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/1",
+            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/1",
             "type": "Canvas",
             "height": 3373,
             "width": 2364,
@@ -128,7 +128,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/8b784ea06c152052097cded98d80b67d/full/210,300/0/default.jpg",
+                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/8b784ea06c152052097cded98d80b67d/full/210,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -137,23 +137,23 @@
             ],
             "items": [
                 {
-                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/1/annopage-1",
+                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/1/annopage-1/anno-1",
+                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/1",
+                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/1",
                             "body": {
-                                "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/8b784ea06c152052097cded98d80b67d/full/1402,2000/0/default.jpg",
+                                "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/8b784ea06c152052097cded98d80b67d/full/1402,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1402,
                                 "service": [
                                     {
-                                        "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/8b784ea06c152052097cded98d80b67d",
+                                        "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/8b784ea06c152052097cded98d80b67d",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -165,14 +165,14 @@
             ],
             "annotations": [
                 {
-                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/1/annopage-2",
+                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/1/annopage-2",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/1/annopage-2/anno-1",
+                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/1",
+                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/1",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -180,10 +180,10 @@
                             }
                         },
                         {
-                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/1/annopage-2/anno-2",
+                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/1#xywh=1536,2556,414,175",
+                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/1#xywh=1536,2556,414,175",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -191,10 +191,10 @@
                             }
                         },
                         {
-                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/1/annopage-2/anno-3",
+                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/1#xywh=658,2260,285,126",
+                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/1#xywh=658,2260,285,126",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -206,7 +206,7 @@
             ]
         },
         {
-            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/2",
+            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/2",
             "type": "Canvas",
             "height": 2798,
             "width": 2014,
@@ -217,7 +217,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/1f91afec3403719952d5a380ba1d41dc/full/216,300/0/default.jpg",
+                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/1f91afec3403719952d5a380ba1d41dc/full/216,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -226,23 +226,23 @@
             ],
             "items": [
                 {
-                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/2/annopage-1",
+                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/2/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/2/annopage-1/anno-1",
+                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/2/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/2",
+                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/2",
                             "body": {
-                                "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/1f91afec3403719952d5a380ba1d41dc/full/1440,2000/0/default.jpg",
+                                "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/1f91afec3403719952d5a380ba1d41dc/full/1440,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1440,
                                 "service": [
                                     {
-                                        "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/1f91afec3403719952d5a380ba1d41dc",
+                                        "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/1f91afec3403719952d5a380ba1d41dc",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -254,14 +254,14 @@
             ],
             "annotations": [
                 {
-                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/2/annopage-2",
+                    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/2/annopage-2",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/2/annopage-2/anno-1",
+                            "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/2/annopage-2/anno-1",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/canvas/2",
+                            "target": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/canvas/2",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
