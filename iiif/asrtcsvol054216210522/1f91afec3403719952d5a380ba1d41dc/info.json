@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/asrtcsvol054216210522/1f91afec3403719952d5a380ba1d41dc",
+  "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/1f91afec3403719952d5a380ba1d41dc",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",
