@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/index.json",
+    "id": "https://MultimedialitySummerSchool.github.io/NotarialDocuments/iiif/index.json",
     "type": "Collection",
     "label": {
         "none": [
